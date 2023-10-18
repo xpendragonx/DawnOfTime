@@ -7,7 +7,7 @@ let backgroundColor = 100;
 let monument = [];
 let fireTimer = 250;
 
-let buildProcess = 0
+let buildProcess = 1
 let amountGather = 0;
 let canGather = true;
 
